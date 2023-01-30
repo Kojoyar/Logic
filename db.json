@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1675068280643,
+      "username": "Jack",
+      "age": "17",
+      "password": "pass",
+      "isAdmin": true,
+      "favorites": [
+        {
+          "title": "ds",
+          "desc": "sd",
+          "like": -5,
+          "author": "Jack",
+          "id": 1
+        },
+        {
+          "title": "ds",
+          "desc": "sd",
+          "like": -5,
+          "author": "Jack",
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 1675073265639,
+      "username": "Isken",
+      "age": "17",
+      "password": "pass",
+      "isAdmin": true,
+      "favorites": []
+    }
+  ],
+  "products": [
+    {
+      "title": "ds",
+      "desc": "sd",
+      "like": -5,
+      "author": "Jack",
+      "id": 1
+    }
+  ]
+}
